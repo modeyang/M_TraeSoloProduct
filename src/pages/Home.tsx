@@ -76,7 +76,7 @@ export default function Home() {
             </p>
             <Link
               to="/text-to-image"
-              className="inline-flex items-center space-x-2 bg-white text-purple-600 px-8 py-4 rounded-full text-lg font-semibold hover:bg-gray-100 transition-all duration-200 shadow-lg hover:shadow-xl transform hover:scale-105"
+              className="inline-flex items-center space-x-2 bg-white text-red-600 px-8 py-4 rounded-full text-lg font-semibold hover:bg-gray-100 transition-all duration-200 shadow-lg hover:shadow-xl transform hover:scale-105"
             >
               <span>开始创作</span>
               <ArrowRight size={20} />
